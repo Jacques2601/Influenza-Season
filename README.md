@@ -2,6 +2,8 @@
 
 This project was completed as part of the CareerFoundry Data Analytics Program. The objective was to develop a national staffing plan for U.S. hospitals and clinics during influenza season, using data-driven insights from historical mortality and vaccination trends.
 
+View this project in my portfolio presentation: [Google Slides Portfolio](https://docs.google.com/presentation/d/1qkxnA_wyYDSZGrbO7H8aNu45hsYfwUvO/edit?slide=id.p1#slide=id.p1)
+
 ## Project Summary
 
 Influenza-related deaths place a seasonal burden on the U.S. healthcare system, particularly among vulnerable populations aged 65 and older. This project aimed to identify high-risk states, peak flu months, and key demographic indicators to guide workforce planning for temporary medical staffing agencies.
